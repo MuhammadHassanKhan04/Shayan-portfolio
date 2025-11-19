@@ -262,7 +262,7 @@ const Hero: React.FC = () => {
               <div className="relative w-full h-full rounded-full overflow-hidden border-8 border-white dark:border-slate-800 shadow-2xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center transition-colors duration-300">
                 <img 
                    src="./shayan_profile.jpg" 
-                   onError={(e) => { e.currentTarget.src = "/WhatsApp Image 2025-11-19 at 09.08.26_915b5b47.jpg"; }}
+                   onError={(e) => { e.currentTarget.src = "https://instagram.fkhi17-2.fna.fbcdn.net/v/t51.2885-19/524444346_17970026624917025_8704165358523872246_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=instagram.fkhi17-2.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2QGF52LyKI_Nqg9jbVpehxtxuDnGpfKPB1CGhnCdNCDyU0Znz01m0AyCL1_M8JJEQ-A&_nc_ohc=mo5yRSHl_g0Q7kNvwEqMRH9&_nc_gid=VdVaQXxM5QWP4XYWt7xisA&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfgDmU6Jg1pRFcRyw8od5SQ2sKFSzjdJS3M9APnUjMbu_A&oe=6923BC7B&_nc_sid=7a9f4b"; }}
                    alt="Shayan Finyas" 
                    className="w-full h-full object-cover hover:scale-110 transition-transform duration-700"
                 />
